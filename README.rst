@@ -2,10 +2,12 @@
  RECAPTCHA_TEST
 ======
 
-- Install all dependencies::
+To run this testing project, follow these steps:
+
+1. Install all dependencies::
 
     npm i
 
-- Run test::
+2. Run test::
 
     npm run test
