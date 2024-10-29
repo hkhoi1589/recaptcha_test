@@ -13,7 +13,7 @@ let browser;
         const page = await browser.newPage();
         
         // Navigate the page to a URL.
-        await page.goto('https://ttt2dev.tradetotravel.com/register/');
+        await page.goto('https://ttt2qa.tradetotravel.com/register/');
         // await page.goto(args[1]) // Go to the url the user specified
 
         // Type into first name.
